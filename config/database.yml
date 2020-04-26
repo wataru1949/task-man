@@ -49,6 +49,9 @@ test:
 #
 production:
   <<: *default
-  database: task-man_production
-  username: task-man
-  password: <%= ENV['TASK-MAN_DATABASE_PASSWORD'] %>
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  # database: task-man_production
+  # username: task-man
+  # password: <%= ENV['TASK-MAN_DATABASE_PASSWORD'] %>
