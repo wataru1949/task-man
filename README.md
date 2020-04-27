@@ -9,6 +9,8 @@
 - Ruby:2.6.3
 - Ruby on Rails:5.2.3
 <br><br><br>
+![image](https://user-images.githubusercontent.com/61773347/80367568-4c1b9680-88c6-11ea-9f1e-0908d46c7f8f.png)
+<br><br><br>
 ## 本番環境
 - URL: https://guarded-mesa-28035.herokuapp.com/<br>
 - テストアカウント:
